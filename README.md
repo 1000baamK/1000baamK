@@ -8,6 +8,7 @@
   <p><b>Please look forward to my growth. Thank you!👍</b></p>
 </div>
 
+<hr>
 
 <!--
 **1000baamK/1000baamK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
