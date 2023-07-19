@@ -1,4 +1,13 @@
-### Hi there 👋
+### 1000baamK
+
+<hr>
+
+<div align="center">
+  <p><b>Hi There!✋</b></p>
+  <p><b>I'm Cheon Byeong-Kuk😀</b></p>
+  <p><b>Please look forward to my growth. Thank you!👍</b></p>
+</div>
+
 
 <!--
 **1000baamK/1000baamK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
